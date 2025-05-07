@@ -15,7 +15,7 @@ from haar2D import fwdHaarDWT2D
 
 
 #folders to store training data
-positiveTrainImagePath = ''
+positiveTrainImagePath = '    '
 negativeTrainImagePath = ''
 
 def main(args):
